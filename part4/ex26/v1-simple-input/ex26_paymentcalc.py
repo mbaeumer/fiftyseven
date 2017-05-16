@@ -43,7 +43,7 @@ def capture_monthly_payment():
     str_pay = input("What is the your monthly payment? ")
     if str_pay != 'X':
       try:
-        pay = int(str_pay)
+        pay = float(str_pay)
         if pay < 0:
           print("ERROR: Please provide a positive value for your monthly payment!")
         else:
