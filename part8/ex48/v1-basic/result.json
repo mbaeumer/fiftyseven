@@ -1,0 +1,13 @@
+{'wind':
+  {'deg': 340,
+    'speed': 3.1},
+  'visibility': 10000,
+  'sys': {'sunset': 1510585437, 'id': 5245, 'sunrise': 1510555206, 'message': 0.006, 'country': 'SE', 'type': 1},
+  'clouds': {'all': 0},
+  'base': 'stations',
+  'weather': [{'id': 800, 'icon': '01n', 'description': 'clear sky', 'main': 'Clear'}],
+  'main': {'pressure': 1014, 'temp_max': 277.15, 'temp_min': 275.15, 'temp': 276.13, 'humidity': 69},
+  'name': 'Malmoe', 'id': 2692969,
+  'coord': {'lat': 55.61, 'lon': 13},
+  'cod': 200, 'dt': 1510586400
+}
